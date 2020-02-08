@@ -4,3 +4,4 @@
 
 1 ~ 7주차 : 모두를 위한 딥러닝 시즌 1 (https://hunkim.github.io/ml/ )
 
+hw01 : Gradient Descent 구현해보기/ XOR문제 / tensorflow 사용해보기
